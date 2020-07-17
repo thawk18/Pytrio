@@ -1,6 +1,7 @@
 # Demographics Data by trainline over time (look for breakdown by council if ABS allows)
 
 Note: If ABS api gets too hard we can use gmaps api to show train stations and radius of influence to demonstrate how we narrowed down LGAs
+Alternative Note: Do heatmaps across Perth with unemployent rates, growth, number of cars using gmaps api
 
 
 Population 
