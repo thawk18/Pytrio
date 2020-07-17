@@ -1,5 +1,8 @@
 # Demographics Data by trainline over time (look for breakdown by council if ABS allows)
 
+Note: If ABS api gets too hard we can use gmaps api to show train stations and radius of influence to demonstrate how we narrowed down LGAs
+
+
 Population 
 
 Data source: 
