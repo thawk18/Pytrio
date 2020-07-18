@@ -22,7 +22,7 @@ How:
 
 Work
 
-Data source: 
+Data source: ABS stats for sector people work in by suburb over time, can perhaps include % that use PT to commute to work as well if that's available.
 
 Link/file: 
 
@@ -30,8 +30,8 @@ How:
 
 Retail
 
-Data source: 
+Data source: using google API you can find shops in the proximity of armadale and the trainline, but it's a lot harder to find the date in which they were built or renovated. 
 
 Link/file: 
 
-How:
+How: 
