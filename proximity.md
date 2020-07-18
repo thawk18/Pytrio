@@ -2,7 +2,7 @@
 
 Hospitals (Armadale Hospital, Bentley Hospital, South Perth Hospital, Kalamunda Hospital, St John of God Armadale Specialist Center)
 
-Data source: 
+Data source: CSV file with data is available (from https://catalogue.data.wa.gov.au/). It has geographic info but not size of the hospital
 
 Link/file: 
 
@@ -10,7 +10,7 @@ How:
 
 Schools
 
-Data source: 
+Data source: CSV file with data is available (from https://catalogue.data.wa.gov.au/). This one is very good, it breaks down by school type and size, heatmaps may be a possibiliy
 
 Link/file: 
 
