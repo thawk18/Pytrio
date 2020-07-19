@@ -1,4 +1,4 @@
-﻿Line,LGA,Category,2011,2012,2013,2014,2015,2016,2017,2018
+﻿Train_Line,LGA,Category,2011,2012,2013,2014,2015,2016,2017,2018
 Armadale,Armadale,Total_Pop,,,72662,75559,78848,82021,84669,87634
 Armadale,Armadale,Working_Pop,,,49409,51096,52979,54628,56016,57532
 Armadale,Armadale,Nr_Businesses,,,,3962,4133,4342,4578,4756
@@ -119,3 +119,13 @@ Mandurah,Mandurah,Work_Train,568,,,,,570,,
 Mandurah,Mandurah,Work_Bus,610,,,,,906,,
 Mandurah,Mandurah,Work_Car,16587,,,,,19589,,
 Mandurah,Mandurah,Work_Home,918,,,,,1196,,
+GreaterPerth,Perth Metro,Total_Pop,,,1943855,1973923,1998937,2019263,2037902,2059484
+GreaterPerth,Perth Metro,Working_Pop,,,1332769,1346899,1356756,1361451,1364074,1368926
+GreaterPerth,Perth Metro,Nr_Businesses,,,,170035,172835,176582,180214,182219
+GreaterPerth,Perth Metro,Nr_Cars,,,1159060,1205861,1223855,1236116,1240215,1244534
+GreaterPerth,Perth Metro,Unemployed,42859,,,,,81482,,
+GreaterPerth,Perth Metro,Working_force,900491,,,,,1001678,,
+GreaterPerth,Perth Metro,Work_Train,24099,,,,,25725,,
+GreaterPerth,Perth Metro,Work_Bus,30600,,,,,34063,,
+GreaterPerth,Perth Metro,Work_Car,527160,,,,,590114,,
+GreaterPerth,Perth Metro,Work_Home,29476,,,,,35527,,
