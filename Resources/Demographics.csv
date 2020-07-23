@@ -9,6 +9,7 @@ Armadale,Armadale,Work_Train,1015,,,,,1090,,
 Armadale,Armadale,Work_Bus,373,,,,,542,,
 Armadale,Armadale,Work_Car,19229,,,,,24886,,
 Armadale,Armadale,Work_Home,923,,,,,1133,,
+Armadale,Armadale,Median Income,,,50 000,51 519,52 799,53 435,53 234,
 Armadale,Gosnells,Total_Pop,,,119381,120756,121720,122011,122847,123325
 Armadale,Gosnells,Working_Pop,,,82051,82633,82880,82563,82235,82079
 Armadale,Gosnells,Nr_Businesses,,,,6584,6688,6961,7277,7538
@@ -19,6 +20,7 @@ Armadale,Gosnells,Work_Train,1606,,,,,1526,,
 Armadale,Gosnells,Work_Bus,983,,,,,1145,,
 Armadale,Gosnells,Work_Car,33162,,,,,36006,,
 Armadale,Gosnells,Work_Home,1202,,,,,1393,,
+Armadale,Gosnells,Median Income,,,48 707,49 317,50 503,50 724,50 210,
 Armadale,Canning,Total_Pop,,,93491,93843,93959,93733,93164,92965
 Armadale,Canning,Working_Pop,,,66598,66415,66074,65273,64068,63339
 Armadale,Canning,Nr_Businesses,,,,8371,8410,8634,8864,9185
@@ -29,6 +31,7 @@ Armadale,Canning,Work_Train,1158,,,,,1208,,
 Armadale,Canning,Work_Bus,1560,,,,,1490,,
 Armadale,Canning,Work_Car,26659,,,,,27459,,
 Armadale,Canning,Work_Home,1220,,,,,1283,,
+Armadale,Canning,Median Income,,,45 784,46 519,47 854,48 178,47 350,
 Armadale,Victoria_Park,Total_Pop,,,36260,36570,36714,36647,36503,36601
 Armadale,Victoria_Park,Working_Pop,,,26928,27033,26963,26807,26628,26616
 Armadale,Victoria_Park,Nr_Businesses,,,,3669,3747,3873,3898,3840
@@ -39,6 +42,7 @@ Armadale,Victoria_Park,Work_Train,697,,,,,674,,
 Armadale,Victoria_Park,Work_Bus,1805,,,,,1747,,
 Armadale,Victoria_Park,Work_Car,9089,,,,,10038,,
 Armadale,Victoria_Park,Work_Home,412,,,,,572,,
+Armadale,Victoria_Park,Median Income,,,50 650,51 459,53 096,53 020,52 933,
 Joondalup,Stirling,Total_Pop,,,218043,219372,220152,220073,219842,220249
 Joondalup,Stirling,Working_Pop,,,150656,150940,150999,149893,148689,147378
 Joondalup,Stirling,Nr_Businesses,,,,20430,20938,21361,21866,22282
@@ -49,6 +53,7 @@ Joondalup,Stirling,Work_Train,1908,,,,,2000,,
 Joondalup,Stirling,Work_Bus,4732,,,,,5136,,
 Joondalup,Stirling,Work_Car,61916,,,,,67688,,
 Joondalup,Stirling,Work_Home,3300,,,,,3888,,
+Joondalup,Stirling,Median Income,,,50 666,52 101,53 448,54 122,53 302,
 Joondalup,Joondalup,Total_Pop,,,81715,81499,81135,80288,79771,79572
 Joondalup,Joondalup,Working_Pop,,,113353,111998,110156,107885,106215,104699
 Joondalup,Joondalup,Nr_Businesses,,,,13144,13084,13121,13178,13047
@@ -59,6 +64,7 @@ Joondalup,Joondalup,Work_Train,3825,,,,,3533,,
 Joondalup,Joondalup,Work_Bus,848,,,,,1010,,
 Joondalup,Joondalup,Work_Car,51346,,,,,51077,,
 Joondalup,Joondalup,Work_Home,3120,,,,,3580,,
+joondalup,joondalup,Median Income,,,51 179,52 715,53 911,55 000,54 573,
 Joondalup,Wanneroo,Total_Pop,,,87969,90723,93666,96833,98901,100938
 Joondalup,Wanneroo,Working_Pop,,,119664,123472,127152,131117,133680,136383
 Joondalup,Wanneroo,Nr_Businesses,,,,11287,11780,12476,12813,13019
@@ -69,6 +75,7 @@ Joondalup,Wanneroo,Work_Train,2135,,,,,2692,,
 Joondalup,Wanneroo,Work_Bus,1209,,,,,1872,,
 Joondalup,Wanneroo,Work_Car,46755,,,,,58774,,
 Joondalup,Wanneroo,Work_Home,2192,,,,,3033,,
+joondalup,wanneroo,median Income,,,49 229,50 350,51 360,52 054,51 744,
 Mandurah,Melville,Total_Pop,,,104319,104073,103522,102342,102076,101940
 Mandurah,Melville,Working_Pop,,,69541,68766,67691,66213,65487,64622
 Mandurah,Melville,Nr_Businesses,,,,10349,10381,10459,10557,10618
@@ -79,6 +86,7 @@ Mandurah,Melville,Work_Train,1136,,,,,1011,,
 Mandurah,Melville,Work_Bus,2121,,,,,1874,,
 Mandurah,Melville,Work_Car,29824,,,,,29995,,
 Mandurah,Melville,Work_Home,2149,,,,,2428,,
+Mandurah,Melville,Median Income,,,50 804,52 577,53 907,55 224,55 001,
 Mandurah,Cockburn,Total_Pop,,,102787,104906,106802,108302,110110,112165
 Mandurah,Cockburn,Working_Pop,,,71495,72703,73709,74370,75176,76209
 Mandurah,Cockburn,Nr_Businesses,,,,,1196,1209,1300,1263
@@ -89,6 +97,7 @@ Mandurah,Cockburn,Work_Train,1185,,,,,1427,,
 Mandurah,Cockburn,Work_Bus,998,,,,,1249,,
 Mandurah,Cockburn,Work_Car,29916,,,,,34711,,
 Mandurah,Cockburn,Work_Home,1210,,,,,1659,,
+Mandurah,Cockburn,Median Income,,,52 448,53 969,55 324,55 818,55 140,
 Mandurah,Kwinana,Total_Pop,,,34707,36444,38153,40058,41849,43511
 Mandurah,Kwinana,Working_Pop,,,23862,25081,26204,27538,28641,29635
 Mandurah,Kwinana,Nr_Businesses,,,,1413,1502,1588,1751,1828
@@ -99,6 +108,7 @@ Mandurah,Kwinana,Work_Train,544,,,,,969,,
 Mandurah,Kwinana,Work_Bus,268,,,,,372,,
 Mandurah,Kwinana,Work_Car,7932,,,,,10628,,
 Mandurah,Kwinana,Work_Home,240,,,,,409,,
+Mandurah,Kwinana,Median Income,,,50 860,51 717,53 337,53 900,53 643,
 Mandurah,Rockingham,Total_Pop,,,119300,123038,126012,128992,131003,133389
 Mandurah,Rockingham,Working_Pop,,,78994,81278,83002,84632,85540,86753
 Mandurah,Rockingham,Nr_Businesses,,,,5119,5288,5420,5525,5561
@@ -109,6 +119,7 @@ Mandurah,Rockingham,Work_Train,1248,,,,,1457,,
 Mandurah,Rockingham,Work_Bus,1079,,,,,1452,,
 Mandurah,Rockingham,Work_Car,29634,,,,,35191,,
 Mandurah,Rockingham,Work_Home,1219,,,,,1579,,
+Mandurah,Rockingham,Median Income,,,53 411,54 917,55 849,55 682,55 089,
 Mandurah,Mandurah,Total_Pop,,,79292,80927,82202,83322,84196,85302
 Mandurah,Mandurah,Working_Pop,,,48694,49397,49745,49862,49839,49971
 Mandurah,Mandurah,Nr_Businesses,,,,4421,4494,4629,4592,4607
@@ -119,6 +130,7 @@ Mandurah,Mandurah,Work_Train,568,,,,,570,,
 Mandurah,Mandurah,Work_Bus,610,,,,,906,,
 Mandurah,Mandurah,Work_Car,16587,,,,,19589,,
 Mandurah,Mandurah,Work_Home,918,,,,,1196,,
+Mandurah,Mandurah,Median Income,,,47 395,49 375,50 007,50 498,50 317,
 GreaterPerth,Perth Metro,Total_Pop,,,1943855,1973923,1998937,2019263,2037902,2059484
 GreaterPerth,Perth Metro,Working_Pop,,,1332769,1346899,1356756,1361451,1364074,1368926
 GreaterPerth,Perth Metro,Nr_Businesses,,,,170035,172835,176582,180214,182219
@@ -129,3 +141,4 @@ GreaterPerth,Perth Metro,Work_Train,24099,,,,,25725,,
 GreaterPerth,Perth Metro,Work_Bus,30600,,,,,34063,,
 GreaterPerth,Perth Metro,Work_Car,527160,,,,,590114,,
 GreaterPerth,Perth Metro,Work_Home,29476,,,,,35527,,
+GreaterPerth,Perth Metro,Median Income,,,50 453,51 815,52 963,53 727,53 159,
